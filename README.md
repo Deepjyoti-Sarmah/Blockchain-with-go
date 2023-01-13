@@ -1,6 +1,6 @@
 # Blockchain-with-go
 <br>
-Contains various Projects realated to blochchain using go as a programing language
+Contains various Projects realated to blochchain using go as a programing language.
 
 #### Contents :-
 <br>Book Blockchain
